@@ -1,0 +1,5 @@
+{
+  "name": "Berkshire Tracker",
+  "description": "An interactive web application that uses Gemini's real-time web search capabilities to automatically find, compare, and visualize the two most recent quarterly (13-F) filings from Berkshire Hathaway.",
+  "requestFramePermissions": []
+}
